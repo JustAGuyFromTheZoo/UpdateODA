@@ -1,9 +1,9 @@
 {
-  "version": "1.3.5",
-  "update_url": "https://github.com/JustAGuyFromTheZoo/UpdateODA/releases/download/bancrot/v1.3.5.exe",
-  "changelog": "Обновление до версии 1.3.5 - исправления ошибок и автообновления",
+  "version": "1.3.6",
+  "update_url": "https://github.com/JustAGuyFromTheZoo/UpdateODA/releases/download/bancrot/v1.3.6.exe",
+  "changelog": "Обновление до версии 1.3.6 - тест новых функций и улучшений.",
   "release_date": "2025-08-26",
-  "file_hash": "F3F8FF22D3B986444C3833EA96BAD3963FF9051EE59F60D2BB4E269943393EEF",
+  "file_hash": "82AD2FD7037302EC134ED8D20575148979B59798B0FD21DB2A6420F33E6B6B92",
   "hash_algorithm": "SHA256",
-  "file_size": 661654646
+  "file_size": 661663877
 }
