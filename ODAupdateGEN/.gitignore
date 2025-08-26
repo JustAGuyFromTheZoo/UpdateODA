@@ -1,0 +1,10 @@
+@"
+NUL
+CON
+PRN
+COM1
+LPT1
+*.exe
+*.msi
+*.zip
+*.7z
