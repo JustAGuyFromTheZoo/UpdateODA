@@ -1,9 +1,9 @@
 {
-  "version": "1.3.6",
-  "update_url": "https://github.com/JustAGuyFromTheZoo/UpdateODA/releases/download/v1.3.6/v1.3.6.exe",
-  "changelog": "Обновление до версии 1.3.6 - тест новых функций и улучшений.",
+  "version": "1.3.7",
+  "update_url": "https://github.com/JustAGuyFromTheZoo/UpdateODA/releases/download/bac.1.3.7/v1.3.7.exe",
+  "changelog": "Обновление до версии 1.3.7 - исправления и улучшения.",
   "release_date": "2025-08-26",
-  "file_hash": "82AD2FD7037302EC134ED8D20575148979B59798B0FD21DB2A6420F33E6B6B92",
+  "file_hash": "B6FDDED1FC4EF3B7911B6BFC9D3EF285B6FDDED1FC4EF3B7911B6BFC9D3EF285",
   "hash_algorithm": "SHA256",
-  "file_size": 661663877
+  "file_size": 669453576
 }
